@@ -1,2 +1,2 @@
 # LearningGit2
-Practical 4
+Remote for LearningGit2 in local workstation
